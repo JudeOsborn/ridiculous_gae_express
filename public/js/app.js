@@ -1,0 +1,1 @@
+console.log('So simple it\'s ridiculous`);
